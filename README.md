@@ -12,7 +12,7 @@ This is a simple web project containing an HTML file and a CSS file.
 
 1. Open `index.html` in your web browser to view the project.
 2. Modify `index.css` to change the styles as needed.
-3.Click on given link.
+   3.Click on given link.
 
 ## Features
 
