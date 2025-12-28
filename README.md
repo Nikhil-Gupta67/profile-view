@@ -15,6 +15,7 @@ This is a simple web project containing an HTML file and a CSS file.
    3.Click on given link.
 
 ## Features
+---
 
 - Basic HTML structure
 - Customizable CSS styling
